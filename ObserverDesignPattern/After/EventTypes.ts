@@ -1,0 +1,5 @@
+export enum EventType {
+  NEW_PRODUCT = "NEW_PRODUCT",
+  NEW_OFFER = "NEW_OFFER",
+  ORDER_PLACED  = "ORDER_PLACED",
+}
